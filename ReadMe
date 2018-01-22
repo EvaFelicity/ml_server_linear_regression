@@ -1,0 +1,2 @@
+1. File ml_server.py is the code to build the machine learning API.
+2. File test.py executes the terminal commands in one bulk in python script.
